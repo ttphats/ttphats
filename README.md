@@ -103,7 +103,8 @@
 
 </p>
 
-[![Stats of fatsfish](https://github-readme-stats.vercel.app/api?username=fatsfish&show_icons=true&theme=great-gatsby&locale=en)](https://github-readme-stats.vercel.app/api?username=fatsfish&show_icons=true&theme=great-gatsby&locale=en) [![Top Languages of fatsfish](https://github-readme-stats.vercel.app/api/top-langs?username=fatsfish&show_icons=true&theme=radical&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=fatsfish&show_icons=true&theme=radical&locale=en&layout=compact)
+
+[![TTPHATS's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttphats&show_icons=true&theme=great-gatsby&locale=en)](https://github-readme-stats.vercel.app/api?username=ttphats&show_icons=true&theme=great-gatsby&locale=en) [![Top Languages of fatsfish](https://github-readme-stats.vercel.app/api/top-langs?username=fatsfish&show_icons=true&theme=radical&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=ttphats&show_icons=true&theme=radical&locale=en&layout=compact)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ttphats&background=000000&sideNums=FD9C2B&currStreakNum=FD9C2B&dates=FDFD6A&sideLabels=FD9C2B&border=DDBD1F&stroke=CCC235)](https://git.io/streak-stats)
 
