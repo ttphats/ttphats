@@ -190,39 +190,26 @@ C#                       2 repos             ██░░░░░░░░░�
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/ndungx">
-        <img src="https://avatars2.githubusercontent.com/u/62410410" width="100px;" alt="ndungx"/>
+      <a href="https://github.com/dylan1607">
+        <img src="https://avatars2.githubusercontent.com/u/67869620" width="100px;" alt="dylan1607"/>
       </a>
       <br />
-      <a href="https://github.com/ndungx">Nguyễn Dũng</a>
+      <a href="https://github.com/dylan1607">Dylan Tran</a>
     </td>
     <td align="center">
       <a href="https://github.com/Fatsfish">
-        <img src="https://avatars.githubusercontent.com/u/73916167?v=4" width="100px;" alt="fatsfish"/>
+        <img src="https://avatars2.githubusercontent.com/u/73916167" width="100px;" alt="Fatsfish"/>
       </a>
       <br />
-      <a href="https://github.com/Fatsfish">Fatsfish</a>
+      <a href="https://github.com/Fatsfish">James Nguyễn</a>
     </td>
     <td align="center">
       <a href="https://github.com/khoahd7621">
-        <img src="https://avatars.githubusercontent.com/u/77594830?v=4" width="100px;" alt="khoahd7621"/>
+        <img src="https://avatars2.githubusercontent.com/u/77594830" width="100px;" alt="khoahd7621"/>
       </a>
       <br />
-      <a href="https://github.com/khoahd7621">Hoàng Đăng Khoa</a>
+      <a href="https://github.com/khoahd7621">Hoang Dang Khoa</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/tonynguyen2512">
-        <img src="https://avatars2.githubusercontent.com/u/72120353" width="100px;" alt="tonynguyen2512"/>
-      </a>
-      <br />
-      <a href="https://github.com/tonynguyen2512">tonynguyen2512</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/fepfer">
-        <img src="https://avatars2.githubusercontent.com/u/81204713" width="100px;" alt="fepfer"/>
-      </a>
-      <br />
-      <a href="https://github.com/fepfer">Minh Thái</a>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
