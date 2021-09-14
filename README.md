@@ -3,11 +3,11 @@
 <h3 align="center">A passionate Full Stack undergraduate from Viet Nam
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
-[![Social banner for ttphats](https://github.com/Fatsfish/Fatsfish/blob/main/assets/fatsfish.gif)](https://www.facebook.com/Fatsfish.D.James)
+[![Social banner for ttphats](https://github.com/Fatsfish/Fatsfish/blob/main/assets/fatsfish.gif)](https://www.facebook.com/ttphats01/)
 
-- 🔭 I’m currently working on [B0sses' Projects](https://discord.gg/2gXCKZCNHF)
+- 🔭 I’m currently working on [Skillcetera's Projects](https://github.com/Skillcetera)
 
-- 🌱 I’m currently learning **ASP.net, Azure**
+- 🌱 I’m currently learning **Java, C#**
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Fatsfish?tab=repositories)
 
