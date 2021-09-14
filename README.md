@@ -227,7 +227,7 @@ C#                       2 repos             ██░░░░░░░░░�
 </table>
 <!--END_SECTION:top-followers-->
 
-[![Social banner for ttphats] (https://github.com/ttphats/ttphats/blob/main/assets/Sharing.gif](https://www.facebook.com/ttphats01)
+[![Social banner for ttphats] (https://github.com/ttphats/ttphats/blob/main/assets/Sharing.gif) ](https://www.facebook.com/ttphats01)
 
 
 
