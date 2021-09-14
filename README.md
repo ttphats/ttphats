@@ -3,38 +3,38 @@
 <h3 align="center">A passionate Full Stack undergraduate from Viet Nam
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
-[![Social banner for ttphats](https://github.com/Fatsfish/Fatsfish/blob/main/assets/fatsfish.gif)](https://www.facebook.com/ttphats01/)
+[![Social banner for ttphats](https://github.com/ttphats/ttphats/blob/main/assets/ttphats.gif)](https://www.facebook.com/ttphats01/)
 
 - 🔭 I’m currently working on [Skillcetera's Projects](https://github.com/Skillcetera)
 
-- 🌱 I’m currently learning **Java, C#**
+- 🌱 I’m currently learning **Java, C#, HTML, CSS, JavaScript**
 
-- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Fatsfish?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/ttphats?tab=repositories)
 
-- 📝 I regularly write articles on [My Facebook Page](https://www.facebook.com/Fatsfish.D.James)
+- 📝 I regularly write articles on [My Facebook Page](https://www.facebook.com/ttphats01/)
 
-- 💬 Ask me about **Java, C, C++, HTML5, CSS, Bootstrap, Azure, ASP.net**
+- 💬 Ask me about **Java, C, HTML5, CSS**
 
-- 📄 Know about my experiences [Through My Certifications](https://github.com/Fatsfish/Certification)
+- 📄 Know about my experiences [Through My Certifications]()
 
 - ⚡ Fun fact **I love music**
 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatsfish&label=Profile%20views&color=0e75b6&style=flat" alt="fatsfish" /> </p>
 
-- 📫 How to reach me **tuankhai512@gmail.com**
+- 📫 How to reach me **skphat789@gmail.com**
 
 - 👯 I’m looking to collaborate on [Skillcetera's projects](https://www.facebook.com/skillcetera)
 
 - 🤝 I’m looking for help with [Knowledge Worth Sharing](https://www.facebook.com/TEDxFPTUniversityHCMC)
 
-[![TEDxFPTUniversityHCMC](https://github.com/Fatsfish/Fatsfish/blob/main/assets/TEDxFPTUniversityHCMC.png)](https://www.ted.com/tedx/events/40242)
+[![TEDxFPTUniversityHCMC](https://github.com/ttphats/ttphats/blob/main/assets/TEDxFPTUniversityHCMC.png)](https://www.ted.com/tedx/events/40242)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/JamesNguyen-Fatsfish-Skillcetera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-nguyễn-skillcetera" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16472007/james-nguyễn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16472007/james-nguyễn" height="30" width="40" /></a>
-<a href="https://fb.com/fatsfish.d.james" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fatsfish.d.james" height="30" width="40" /></a>
-<a href="https://instagram.com/james.d.khai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="james.d.khai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/phat-thai-thanh-211155213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phat-thai-thanh-211155213/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16905214/th%c3%a1i-th%c3%a0nh-ph%c3%a1t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16472007/th%c3%a1i-th%c3%a0nh-ph%c3%a1t" height="30" width="40" /></a>
+<a href="https://fb.com/ttphats01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ttphats01/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ttphats/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ttphats" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -168,10 +168,10 @@ C#                       2 repos             ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/charts/bar_graph.png) 
+![Chart not found]() 
 
 
- Last Updated on 03/09/2021
+ Last Updated on 14/09/2021
 <!--END_SECTION:waka-->
 
 - Visitor count since 29/07/2021:
@@ -197,18 +197,18 @@ C#                       2 repos             ██░░░░░░░░░�
       <a href="https://github.com/ndungx">Nguyễn Dũng</a>
     </td>
     <td align="center">
-      <a href="https://github.com/giangntse150746">
-        <img src="https://avatars2.githubusercontent.com/u/76811950" width="100px;" alt="giangntse150746"/>
+      <a href="https://github.com/Fatsfish">
+        <img src="https://avatars.githubusercontent.com/u/73916167?v=4" width="100px;" alt="fatsfish"/>
       </a>
       <br />
-      <a href="https://github.com/giangntse150746">giangntse150746</a>
+      <a href="https://github.com/Fatsfish">Fatsfish</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ttphats">
-        <img src="https://avatars2.githubusercontent.com/u/87026966" width="100px;" alt="ttphats"/>
+      <a href="https://github.com/khoahd7621">
+        <img src="https://avatars.githubusercontent.com/u/77594830?v=4" width="100px;" alt="khoahd7621"/>
       </a>
       <br />
-      <a href="https://github.com/ttphats">Thái Thành Phát</a>
+      <a href="https://github.com/khoahd7621">Hoàng Đăng Khoa</a>
     </td>
     <td align="center">
       <a href="https://github.com/tonynguyen2512">
@@ -223,26 +223,11 @@ C#                       2 repos             ██░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/fepfer">Minh Thái</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/TrangHienKhoa">
-        <img src="https://avatars2.githubusercontent.com/u/73904992" width="100px;" alt="TrangHienKhoa"/>
-      </a>
-      <br />
-      <a href="https://github.com/TrangHienKhoa">TrangHienKhoa</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/LeBuoi">
-        <img src="https://avatars2.githubusercontent.com/u/72743699" width="100px;" alt="LeBuoi"/>
-      </a>
-      <br />
-      <a href="https://github.com/LeBuoi">LeBuoi</a>
-    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
 
-[![Social banner for fatsfish](https://github.com/Fatsfish/Fatsfish/blob/main/assets/Knowledge%20worth%20sharing%20(1).gif)](https://www.facebook.com/Fatsfish.D.James)
+[![Social banner for ttphats]https://github.com/ttphats/ttphats/blob/main/assets/Sharing.gif](https://www.facebook.com/ttphats01)
 
 
 
