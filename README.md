@@ -105,7 +105,7 @@
 
 [![Stats of fatsfish](https://github-readme-stats.vercel.app/api?username=fatsfish&show_icons=true&theme=great-gatsby&locale=en)](https://github-readme-stats.vercel.app/api?username=fatsfish&show_icons=true&theme=great-gatsby&locale=en) [![Top Languages of fatsfish](https://github-readme-stats.vercel.app/api/top-langs?username=fatsfish&show_icons=true&theme=radical&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=fatsfish&show_icons=true&theme=radical&locale=en&layout=compact)
 
-[![Streak Stats of fatsfish](https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ttphats&background=FFFBD6)](https://git.io/streak-stats)
 
 
 <!--START_SECTION:waka-->
