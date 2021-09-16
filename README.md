@@ -210,6 +210,13 @@ C#                       2 repos             ██░░░░░░░░░�
       <br />
       <a href="https://github.com/khoahd7621">Hoang Dang Khoa</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/hiddenworry">
+        <img src="https://avatars2.githubusercontent.com/u/61373818" width="100px;" alt="hiddenworry"/>
+      </a>
+      <br />
+      <a href="https://github.com/hiddenworry">Nguyễn Quốc Bảo</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
