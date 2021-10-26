@@ -217,6 +217,13 @@ C#                       2 repos             ██░░░░░░░░░�
       <br />
       <a href="https://github.com/hiddenworry">Nguyễn Quốc Bảo</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/BuddySwThu">
+        <img src="https://avatars2.githubusercontent.com/u/87059281" width="100px;" alt="BuddySwThu"/>
+      </a>
+      <br />
+      <a href="https://github.com/BuddySwThu">Nguyen The Bao</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
