@@ -32,7 +32,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
+
 ### Frontend
 
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -87,6 +88,8 @@
 <br />
 
 </p>
+<br />
+<br />
 
 [![TTPHATS's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttphats&show_icons=true&theme=great-gatsby&locale=en)](https://github-readme-stats.vercel.app/api?username=ttphats&show_icons=true&theme=great-gatsby&locale=en) [![Top Languages of ttphats](https://github-readme-stats.vercel.app/api/top-langs?username=ttphats&show_icons=true&theme=radical&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=ttphats&show_icons=true&theme=radical&locale=en&layout=compact)
 
